@@ -1,4 +1,4 @@
-# Foeednet- Leftover Food Management and Prevention 
+# Feednet- Leftover Food Management and Prevention 
 
 **By**: Ratan Priyanshu  
 

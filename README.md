@@ -1,4 +1,4 @@
-# FoodYard - Leftover Food Management and Prevention 
+# Foeednet- Leftover Food Management and Prevention 
 
 **By**: Ratan Priyanshu  
 

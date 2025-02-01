@@ -33,4 +33,4 @@
 
 ---
 
-**Join FoodYard in reducing food waste and feeding those in need!** 🌍
+**Join Feednet in reducing food waste and feeding those in need!** 🌍

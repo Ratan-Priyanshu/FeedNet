@@ -6,7 +6,7 @@
 
 ## Overview
 
-**FoodYard** is an innovative initiative designed to tackle food waste and hunger. The website educates users on food waste challenges, offers practical management solutions, and encourages community participation through donations and awareness campaigns. It aligns with the United Nations' Sustainable Development Goals of **Zero Hunger** and **Responsible Consumption and Production**.
+**Feednet** is an innovative initiative designed to tackle food waste and hunger. The website educates users on food waste challenges, offers practical management solutions, and encourages community participation through donations and awareness campaigns. It aligns with the United Nations' Sustainable Development Goals of **Zero Hunger** and **Responsible Consumption and Production**.
 
 ---
 
